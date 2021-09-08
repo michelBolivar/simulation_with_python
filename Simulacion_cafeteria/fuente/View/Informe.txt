@@ -1,0 +1,804 @@
+Llega el cliente a la cafeteria 
+Cliente 1: 0.389662329304152 
+<--------------------------->
+El cliente 1 desea ordenar 2 unidades de Café y Croissant
+Ordenando... 
+Cliente 1: 0.389662329304152
+El cliente 1 ordenó 2 unidades de Café y Croissant, queda 18unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 1: 0.43785040514115925 
+ <--------------------------->
+Preparando pedido... 
+Cliente 1: 0.4606701123191741
+ <------------>
+Entregando pedido... 
+ Cliente 1: 0.5443235168841255
+ <--------------------->
+Consumiendo Producto... 
+Cliente 1: 1.1320875335430949
+ <---------------->
+Cliente 1 sale de cafeteria 1.1666448070586768
+ <------------------>
+Llega el cliente a la cafeteria 
+Cliente 2: 1.6791265069426844 
+<--------------------------->
+El cliente 2 desea ordenar 3 unidades de Masato y Mantecada
+Ordenando... 
+Cliente 2: 1.6791265069426844
+El cliente 2 ordenó 3 unidades de Masato y Mantecada, queda 17unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 2: 1.9370468849740134 
+ <--------------------------->
+Llega el cliente a la cafeteria 
+Cliente 3: 2.0290701083365414 
+<--------------------------->
+El cliente 3 desea ordenar 2 unidades de Galleta y Avena
+Ordenando... 
+Cliente 3: 2.0290701083365414
+Preparando pedido... 
+Cliente 2: 2.3165637110335475
+ <------------>
+Entregando pedido... 
+ Cliente 2: 2.3623040091741387
+ <--------------------->
+Llega el cliente a la cafeteria 
+Cliente 4: 2.8568715436934977 
+<--------------------------->
+El cliente 4 desea ordenar 1 unidades de Galleta y Avena
+Ordenando... 
+Cliente 4: 2.8568715436934977
+Consumiendo Producto... 
+Cliente 2: 3.2100133007852225
+ <---------------->
+El cliente 4 ordenó 1 unidades de Galleta y Avena, queda 19unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 4: 3.277752686768306 
+ <--------------------------->
+Cliente 2 sale de cafeteria 3.309023832634521
+ <------------------>
+Preparando pedido... 
+Cliente 4: 3.4810060547087005
+ <------------>
+El cliente 3 ordenó 2 unidades de Galleta y Avena, queda 17unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 3: 3.6435072865953213 
+ <--------------------------->
+Preparando pedido... 
+Cliente 3: 3.7150077525123555
+ <------------>
+Entregando pedido... 
+ Cliente 3: 3.7894405250819343
+ <--------------------->
+Consumiendo Producto... 
+Cliente 3: 3.932796911950736
+ <---------------->
+Cliente 3 sale de cafeteria 4.243689806785323
+ <------------------>
+Llega el cliente a la cafeteria 
+Cliente 5: 4.337555751723073 
+<--------------------------->
+El cliente 5 desea ordenar 2 unidades de Galleta y Avena
+Ordenando... 
+Cliente 5: 4.337555751723073
+El cliente 5 ordenó 2 unidades de Galleta y Avena, queda 15unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 5: 4.516985181801862 
+ <--------------------------->
+Entregando pedido... 
+ Cliente 4: 4.609230224501279
+ <--------------------->
+Preparando pedido... 
+Cliente 5: 4.748102739379394
+ <------------>
+Consumiendo Producto... 
+Cliente 4: 4.750963402590832
+ <---------------->
+Entregando pedido... 
+ Cliente 5: 4.915201772517584
+ <--------------------->
+Consumiendo Producto... 
+Cliente 5: 4.91840852579365
+ <---------------->
+Cliente 4 sale de cafeteria 4.925438824501068
+ <------------------>
+Cliente 5 sale de cafeteria 5.154782128853023
+ <------------------>
+Llega el cliente a la cafeteria 
+Cliente 6: 5.9117118116057465 
+<--------------------------->
+El cliente 6 desea ordenar 3 unidades de Café y Croissant
+Ordenando... 
+Cliente 6: 5.9117118116057465
+El cliente 6 ordenó 3 unidades de Café y Croissant, queda 15unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 6: 5.912766950924466 
+ <--------------------------->
+Preparando pedido... 
+Cliente 6: 6.195545001910251
+ <------------>
+Entregando pedido... 
+ Cliente 6: 6.622774712808985
+ <--------------------->
+Consumiendo Producto... 
+Cliente 6: 7.53188071410711
+ <---------------->
+Cliente 6 sale de cafeteria 8.122868877485072
+ <------------------>
+Llega el cliente a la cafeteria 
+Cliente 7: 8.26519214173818 
+<--------------------------->
+El cliente 7 desea ordenar 2 unidades de Galleta y Avena
+Ordenando... 
+Cliente 7: 8.26519214173818
+El cliente 7 ordenó 2 unidades de Galleta y Avena, queda 13unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 7: 8.27521688449635 
+ <--------------------------->
+Preparando pedido... 
+Cliente 7: 8.508391871619512
+ <------------>
+Entregando pedido... 
+ Cliente 7: 9.276024532999216
+ <--------------------->
+Consumiendo Producto... 
+Cliente 7: 9.329463536297649
+ <---------------->
+Cliente 7 sale de cafeteria 9.388867978928532
+ <------------------>
+Llega el cliente a la cafeteria 
+Cliente 8: 10.490643176700242 
+<--------------------------->
+El cliente 8 desea ordenar 1 unidades de Galleta y Avena
+Ordenando... 
+Cliente 8: 10.490643176700242
+El cliente 8 ordenó 1 unidades de Galleta y Avena, queda 12unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 8: 10.67204904745637 
+ <--------------------------->
+Preparando pedido... 
+Cliente 8: 11.019897765878964
+ <------------>
+Entregando pedido... 
+ Cliente 8: 11.1697601258058
+ <--------------------->
+Consumiendo Producto... 
+Cliente 8: 11.261325245780077
+ <---------------->
+Cliente 8 sale de cafeteria 11.344470549618453
+ <------------------>
+Llega el cliente a la cafeteria 
+Cliente 9: 17.573862637729587 
+<--------------------------->
+El cliente 9 desea ordenar 1 unidades de Masato y Mantecada
+Ordenando... 
+Cliente 9: 17.573862637729587
+El cliente 9 ordenó 1 unidades de Masato y Mantecada, queda 16unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 9: 18.000233712728672 
+ <--------------------------->
+Preparando pedido... 
+Cliente 9: 18.33685102116752
+ <------------>
+Entregando pedido... 
+ Cliente 9: 18.65558405623363
+ <--------------------->
+Consumiendo Producto... 
+Cliente 9: 18.90799657352951
+ <---------------->
+Cliente 9 sale de cafeteria 19.030564964337838
+ <------------------>
+Llega el cliente a la cafeteria 
+Cliente 10: 20.197477259275598 
+<--------------------------->
+El cliente 10 desea ordenar 2 unidades de Empanada y Jugo
+Ordenando... 
+Cliente 10: 20.197477259275598
+El cliente 10 ordenó 2 unidades de Empanada y Jugo, queda 18unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 10: 20.52416391845055 
+ <--------------------------->
+Preparando pedido... 
+Cliente 10: 20.852554951816106
+ <------------>
+Llega el cliente a la cafeteria 
+Cliente 11: 21.40242942825419 
+<--------------------------->
+El cliente 11 desea ordenar 3 unidades de Empanada y Jugo
+Ordenando... 
+Cliente 11: 21.40242942825419
+El cliente 11 ordenó 3 unidades de Empanada y Jugo, queda 15unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 11: 21.417488477012025 
+ <--------------------------->
+Entregando pedido... 
+ Cliente 10: 21.653170843035944
+ <--------------------->
+Consumiendo Producto... 
+Cliente 10: 21.675428060240815
+ <---------------->
+Preparando pedido... 
+Cliente 11: 21.752807388313336
+ <------------>
+Cliente 10 sale de cafeteria 21.804572269730205
+ <------------------>
+Entregando pedido... 
+ Cliente 11: 22.32768267826689
+ <--------------------->
+Consumiendo Producto... 
+Cliente 11: 22.62705804162226
+ <---------------->
+Cliente 11 sale de cafeteria 22.674652791480035
+ <------------------>
+Llega el cliente a la cafeteria 
+Cliente 12: 25.821535131337814 
+<--------------------------->
+El cliente 12 desea ordenar 2 unidades de Café y Croissant
+Ordenando... 
+Cliente 12: 25.821535131337814
+El cliente 12 ordenó 2 unidades de Café y Croissant, queda 13unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 12: 26.251336354289478 
+ <--------------------------->
+Preparando pedido... 
+Cliente 12: 26.394728270837675
+ <------------>
+Entregando pedido... 
+ Cliente 12: 26.819866643866867
+ <--------------------->
+Consumiendo Producto... 
+Cliente 12: 26.93080256739845
+ <---------------->
+Llega el cliente a la cafeteria 
+Cliente 13: 26.948059537906172 
+<--------------------------->
+El cliente 13 desea ordenar 3 unidades de Galleta y Avena
+Ordenando... 
+Cliente 13: 26.948059537906172
+El cliente 13 ordenó 3 unidades de Galleta y Avena, queda 9unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 13: 27.057794596452023 
+ <--------------------------->
+Cliente 12 sale de cafeteria 27.29130486118414
+ <------------------>
+Preparando pedido... 
+Cliente 13: 27.49404650685276
+ <------------>
+Entregando pedido... 
+ Cliente 13: 27.622038867163592
+ <--------------------->
+Consumiendo Producto... 
+Cliente 13: 28.212758268308733
+ <---------------->
+Cliente 13 sale de cafeteria 28.240091292997093
+ <------------------>
+Llega el cliente a la cafeteria 
+Cliente 14: 28.66956325308383 
+<--------------------------->
+El cliente 14 desea ordenar 3 unidades de Empanada y Jugo
+Ordenando... 
+Cliente 14: 28.66956325308383
+El cliente 14 ordenó 3 unidades de Empanada y Jugo, queda 12unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 14: 29.008773152186865 
+ <--------------------------->
+Preparando pedido... 
+Cliente 14: 29.482325685862566
+ <------------>
+Llega el cliente a la cafeteria 
+Cliente 15: 29.59610264169086 
+<--------------------------->
+El cliente 15 desea ordenar 3 unidades de Empanada y Jugo
+Ordenando... 
+Cliente 15: 29.59610264169086
+El cliente 15 ordenó 3 unidades de Empanada y Jugo, queda 9unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 15: 29.659243828873528 
+ <--------------------------->
+Entregando pedido... 
+ Cliente 14: 29.761550816741607
+ <--------------------->
+Consumiendo Producto... 
+Cliente 14: 30.017842979336283
+ <---------------->
+Cliente 14 sale de cafeteria 30.087449060913634
+ <------------------>
+Preparando pedido... 
+Cliente 15: 30.102535959479383
+ <------------>
+Entregando pedido... 
+ Cliente 15: 30.866916719435924
+ <--------------------->
+Consumiendo Producto... 
+Cliente 15: 31.001114587573454
+ <---------------->
+Cliente 15 sale de cafeteria 31.19362023743086
+ <------------------>
+Llega el cliente a la cafeteria 
+Cliente 16: 31.7203207206068 
+<--------------------------->
+El cliente 16 desea ordenar 3 unidades de Masato y Mantecada
+Ordenando... 
+Cliente 16: 31.7203207206068
+El cliente 16 ordenó 3 unidades de Masato y Mantecada, queda 13unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 16: 31.96698807095332 
+ <--------------------------->
+Preparando pedido... 
+Cliente 16: 31.981274399690573
+ <------------>
+Entregando pedido... 
+ Cliente 16: 32.75430829835871
+ <--------------------->
+Consumiendo Producto... 
+Cliente 16: 32.832909236632595
+ <---------------->
+Cliente 16 sale de cafeteria 32.91581560691736
+ <------------------>
+Llega el cliente a la cafeteria 
+Cliente 17: 33.42942540970421 
+<--------------------------->
+El cliente 17 desea ordenar 1 unidades de Café y Croissant
+Ordenando... 
+Cliente 17: 33.42942540970421
+El cliente 17 ordenó 1 unidades de Café y Croissant, queda 12unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 17: 33.59490763104665 
+ <--------------------------->
+Llega el cliente a la cafeteria 
+Cliente 18: 33.80591154580528 
+<--------------------------->
+El cliente 18 desea ordenar 3 unidades de Galleta y Avena
+Ordenando... 
+Cliente 18: 33.80591154580528
+El cliente 18 ordenó 3 unidades de Galleta y Avena, queda 6unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 18: 33.84024165999734 
+ <--------------------------->
+Preparando pedido... 
+Cliente 17: 33.87960346269744
+ <------------>
+Entregando pedido... 
+ Cliente 17: 33.92554394948926
+ <--------------------->
+Preparando pedido... 
+Cliente 18: 33.972137120134136
+ <------------>
+Entregando pedido... 
+ Cliente 18: 34.04263285904467
+ <--------------------->
+Consumiendo Producto... 
+Cliente 18: 34.08797737700518
+ <---------------->
+Consumiendo Producto... 
+Cliente 17: 34.16970104324333
+ <---------------->
+Cliente 17 sale de cafeteria 34.19400095553122
+ <------------------>
+Cliente 18 sale de cafeteria 34.238956656037516
+ <------------------>
+Llega el cliente a la cafeteria 
+Cliente 19: 39.28865126393077 
+<--------------------------->
+El cliente 19 desea ordenar 3 unidades de Galleta y Avena
+Ordenando... 
+Cliente 19: 39.28865126393077
+El cliente 19 ordenó 3 unidades de Galleta y Avena, queda 3unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 19: 39.6073936266581 
+ <--------------------------->
+Preparando pedido... 
+Cliente 19: 40.15838580123881
+ <------------>
+Llega el cliente a la cafeteria 
+Cliente 20: 40.50865670786114 
+<--------------------------->
+El cliente 20 desea ordenar 3 unidades de Empanada y Jugo
+Ordenando... 
+Cliente 20: 40.50865670786114
+Entregando pedido... 
+ Cliente 19: 40.54370533353332
+ <--------------------->
+El cliente 20 ordenó 3 unidades de Empanada y Jugo, queda 6unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 20: 40.8307734957984 
+ <--------------------------->
+Preparando pedido... 
+Cliente 20: 41.06946398763582
+ <------------>
+Consumiendo Producto... 
+Cliente 19: 41.19672118158165
+ <---------------->
+Cliente 19 sale de cafeteria 41.314257823693275
+ <------------------>
+Entregando pedido... 
+ Cliente 20: 41.88870158626225
+ <--------------------->
+Llega el cliente a la cafeteria 
+Cliente 21: 42.98053761779767 
+<--------------------------->
+El cliente 21 desea ordenar 3 unidades de Café y Croissant
+Ordenando... 
+Cliente 21: 42.98053761779767
+El cliente 21 ordenó 3 unidades de Café y Croissant, queda 9unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 21: 42.98529246070435 
+ <--------------------------->
+Consumiendo Producto... 
+Cliente 20: 43.59890380013032
+ <---------------->
+Cliente 20 sale de cafeteria 44.21489948132876
+ <------------------>
+Preparando pedido... 
+Cliente 21: 44.277895130390284
+ <------------>
+Entregando pedido... 
+ Cliente 21: 45.252405129663494
+ <--------------------->
+Consumiendo Producto... 
+Cliente 21: 45.539206576896966
+ <---------------->
+Cliente 21 sale de cafeteria 45.67691371468536
+ <------------------>
+Llega el cliente a la cafeteria 
+Cliente 22: 45.94497340404128 
+<--------------------------->
+El cliente 22 desea ordenar 2 unidades de Masato y Mantecada
+Ordenando... 
+Cliente 22: 45.94497340404128
+El cliente 22 ordenó 2 unidades de Masato y Mantecada, queda 11unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 22: 46.76710246176109 
+ <--------------------------->
+Preparando pedido... 
+Cliente 22: 46.803416304224264
+ <------------>
+Entregando pedido... 
+ Cliente 22: 46.96474128478573
+ <--------------------->
+Llega el cliente a la cafeteria 
+Cliente 23: 47.186462835369234 
+<--------------------------->
+El cliente 23 desea ordenar 1 unidades de Empanada y Jugo
+Ordenando... 
+Cliente 23: 47.186462835369234
+El cliente 23 ordenó 1 unidades de Empanada y Jugo, queda 5unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 23: 47.19720374740299 
+ <--------------------------->
+Consumiendo Producto... 
+Cliente 22: 47.28493729375676
+ <---------------->
+Cliente 22 sale de cafeteria 47.37433501411851
+ <------------------>
+Preparando pedido... 
+Cliente 23: 47.690124743276286
+ <------------>
+Entregando pedido... 
+ Cliente 23: 47.747637095109425
+ <--------------------->
+Consumiendo Producto... 
+Cliente 23: 48.34377425509305
+ <---------------->
+Cliente 23 sale de cafeteria 48.70447134370499
+ <------------------>
+Llega el cliente a la cafeteria 
+Cliente 24: 53.68609864815506 
+<--------------------------->
+El cliente 24 desea ordenar 1 unidades de Empanada y Jugo
+Ordenando... 
+Cliente 24: 53.68609864815506
+El cliente 24 ordenó 1 unidades de Empanada y Jugo, queda 4unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 24: 54.178593530312064 
+ <--------------------------->
+Preparando pedido... 
+Cliente 24: 54.3026122195372
+ <------------>
+Entregando pedido... 
+ Cliente 24: 54.33690473341067
+ <--------------------->
+Consumiendo Producto... 
+Cliente 24: 54.957565918158416
+ <---------------->
+Cliente 24 sale de cafeteria 55.011918253260085
+ <------------------>
+Llega el cliente a la cafeteria 
+Cliente 25: 60.18970759924631 
+<--------------------------->
+El cliente 25 desea ordenar 2 unidades de Masato y Mantecada
+Ordenando... 
+Cliente 25: 60.18970759924631
+El cliente 25 ordenó 2 unidades de Masato y Mantecada, queda 9unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 25: 61.17999435236805 
+ <--------------------------->
+Preparando pedido... 
+Cliente 25: 61.556125714862155
+ <------------>
+Entregando pedido... 
+ Cliente 25: 61.7778625723226
+ <--------------------->
+Consumiendo Producto... 
+Cliente 25: 61.85371977119961
+ <---------------->
+Cliente 25 sale de cafeteria 61.958784986163344
+ <------------------>
+Llega el cliente a la cafeteria 
+Cliente 26: 63.62029402709196 
+<--------------------------->
+El cliente 26 desea ordenar 3 unidades de Galleta y Avena
+Ordenando... 
+Cliente 26: 63.62029402709196
+El cliente 26 ordenó 3 unidades de Galleta y Avena, queda 0unidades en existencia
+<--------------------------->
+Las unidades de Galleta y Avena se agotaron a los 63.70758719952958 minutos
+Pagando... 
+Cliente 26: 63.70758719952958 
+ <--------------------------->
+Preparando pedido... 
+Cliente 26: 63.78737662483334
+ <------------>
+Entregando pedido... 
+ Cliente 26: 63.92509554662491
+ <--------------------->
+Llega el cliente a la cafeteria 
+Cliente 27: 64.21622175925573 
+<--------------------------->
+El cliente 27 desea ordenar 3 unidades de Empanada y Jugo
+Ordenando... 
+Cliente 27: 64.21622175925573
+El cliente 27 ordenó 3 unidades de Empanada y Jugo, queda 1unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 27: 64.43617669254164 
+ <--------------------------->
+Consumiendo Producto... 
+Cliente 26: 64.45104675131985
+ <---------------->
+Cliente 26 sale de cafeteria 64.51915419603364
+ <------------------>
+Preparando pedido... 
+Cliente 27: 64.52353144754268
+ <------------>
+Entregando pedido... 
+ Cliente 27: 64.84466241589492
+ <--------------------->
+Consumiendo Producto... 
+Cliente 27: 65.29916664376186
+ <---------------->
+Cliente 27 sale de cafeteria 65.5571930408432
+ <------------------>
+Llega el cliente a la cafeteria 
+Cliente 28: 66.7388842837266 
+<--------------------------->
+El cliente 28 desea ordenar 2 unidades de Empanada y Jugo
+Ordenando... 
+Cliente 28: 66.7388842837266
+El cliente 28 se fue del establecimiento porque  no hay las unidades de Empanada y Jugoque queria o el producto se agoto
+Tiempo de salida: 67.2589228222922
+Llega el cliente a la cafeteria 
+Cliente 29: 68.09085864515825 
+<--------------------------->
+El cliente 29 desea ordenar 3 unidades de Café y Croissant
+Ordenando... 
+Cliente 29: 68.09085864515825
+El cliente 29 ordenó 3 unidades de Café y Croissant, queda 6unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 29: 68.19810321638208 
+ <--------------------------->
+Preparando pedido... 
+Cliente 29: 68.74551499986744
+ <------------>
+Entregando pedido... 
+ Cliente 29: 68.77718323822198
+ <--------------------->
+Consumiendo Producto... 
+Cliente 29: 68.85436355182478
+ <---------------->
+Cliente 29 sale de cafeteria 68.92032001758966
+ <------------------>
+Llega el cliente a la cafeteria 
+Cliente 30: 69.32210003046912 
+<--------------------------->
+El cliente 30 desea ordenar 3 unidades de Masato y Mantecada
+Ordenando... 
+Cliente 30: 69.32210003046912
+El cliente 30 ordenó 3 unidades de Masato y Mantecada, queda 6unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 30: 69.65984780923033 
+ <--------------------------->
+Preparando pedido... 
+Cliente 30: 69.72205458581051
+ <------------>
+Entregando pedido... 
+ Cliente 30: 69.76356863515863
+ <--------------------->
+Consumiendo Producto... 
+Cliente 30: 70.8189727521504
+ <---------------->
+Cliente 30 sale de cafeteria 71.2171151218342
+ <------------------>
+Llega el cliente a la cafeteria 
+Cliente 32: 72.63335578815017 
+<--------------------------->
+El cliente 32 desea ordenar 1 unidades de Empanada y Jugo
+Ordenando... 
+Cliente 32: 72.63335578815017
+El cliente 32 ordenó 1 unidades de Empanada y Jugo, queda 0unidades en existencia
+<--------------------------->
+Las unidades de Empanada y Jugo se agotaron a los 72.67344159012646 minutos
+Pagando... 
+Cliente 32: 72.67344159012646 
+ <--------------------------->
+Preparando pedido... 
+Cliente 32: 72.81016232577448
+ <------------>
+Entregando pedido... 
+ Cliente 32: 72.8842541804324
+ <--------------------->
+Consumiendo Producto... 
+Cliente 32: 72.98621160649755
+ <---------------->
+Cliente 32 sale de cafeteria 73.03603400199954
+ <------------------>
+Llega el cliente a la cafeteria 
+Cliente 36: 87.53949916755495 
+<--------------------------->
+El cliente 36 desea ordenar 3 unidades de Café y Croissant
+Ordenando... 
+Cliente 36: 87.53949916755495
+El cliente 36 ordenó 3 unidades de Café y Croissant, queda 3unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 36: 88.34362905489478 
+ <--------------------------->
+Preparando pedido... 
+Cliente 36: 89.05037920057913
+ <------------>
+Entregando pedido... 
+ Cliente 36: 89.64790685218263
+ <--------------------->
+Consumiendo Producto... 
+Cliente 36: 90.00289541013487
+ <---------------->
+Cliente 36 sale de cafeteria 90.10972396190313
+ <------------------>
+Llega el cliente a la cafeteria 
+Cliente 37: 90.49741384791662 
+<--------------------------->
+El cliente 37 desea ordenar 1 unidades de Café y Croissant
+Ordenando... 
+Cliente 37: 90.49741384791662
+El cliente 37 ordenó 1 unidades de Café y Croissant, queda 2unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 37: 90.60406854962403 
+ <--------------------------->
+Llega el cliente a la cafeteria 
+Cliente 38: 90.668907888399 
+<--------------------------->
+El cliente 38 desea ordenar 1 unidades de Café y Croissant
+Ordenando... 
+Cliente 38: 90.668907888399
+El cliente 38 ordenó 1 unidades de Café y Croissant, queda 1unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 38: 90.73371277978323 
+ <--------------------------->
+Preparando pedido... 
+Cliente 37: 90.79790744510812
+ <------------>
+Preparando pedido... 
+Cliente 38: 91.27919296410352
+ <------------>
+Entregando pedido... 
+ Cliente 37: 91.41784996470582
+ <--------------------->
+Entregando pedido... 
+ Cliente 38: 91.46126915369757
+ <--------------------->
+Consumiendo Producto... 
+Cliente 37: 92.0101756467152
+ <---------------->
+Cliente 37 sale de cafeteria 92.15150327131006
+ <------------------>
+Consumiendo Producto... 
+Cliente 38: 92.51749081322592
+ <---------------->
+Cliente 38 sale de cafeteria 92.54427117012168
+ <------------------>
+Llega el cliente a la cafeteria 
+Cliente 40: 93.42965984986971 
+<--------------------------->
+El cliente 40 desea ordenar 1 unidades de Café y Croissant
+Ordenando... 
+Cliente 40: 93.42965984986971
+El cliente 40 ordenó 1 unidades de Café y Croissant, queda 0unidades en existencia
+<--------------------------->
+Las unidades de Café y Croissant se agotaron a los 93.91718863218436 minutos
+Pagando... 
+Cliente 40: 93.91718863218436 
+ <--------------------------->
+Preparando pedido... 
+Cliente 40: 93.931617679937
+ <------------>
+Entregando pedido... 
+ Cliente 40: 94.43173013709792
+ <--------------------->
+Consumiendo Producto... 
+Cliente 40: 94.53003892355454
+ <---------------->
+Cliente 40 sale de cafeteria 94.56908623016103
+ <------------------>
+Llega el cliente a la cafeteria 
+Cliente 45: 103.18870051046349 
+<--------------------------->
+El cliente 45 desea ordenar 3 unidades de Masato y Mantecada
+Ordenando... 
+Cliente 45: 103.18870051046349
+El cliente 45 ordenó 3 unidades de Masato y Mantecada, queda 3unidades en existencia
+<--------------------------->
+Pagando... 
+Cliente 45: 103.5040685065526 
+ <--------------------------->
+Preparando pedido... 
+Cliente 45: 103.68747335351638
+ <------------>
+Entregando pedido... 
+ Cliente 45: 103.7549091769269
+ <--------------------->
+Consumiendo Producto... 
+Cliente 45: 105.65125906887442
+ <---------------->
+Cliente 45 sale de cafeteria 106.10651908430421
+ <------------------>
+Llega el cliente a la cafeteria 
+Cliente 48: 109.89918952596025 
+<--------------------------->
+El cliente 48 desea ordenar 3 unidades de Masato y Mantecada
+Ordenando... 
+Cliente 48: 109.89918952596025
+El cliente 48 ordenó 3 unidades de Masato y Mantecada, queda 0unidades en existencia
+<--------------------------->
+Las unidades de Masato y Mantecada se agotaron a los 110.31281968928432 minutos
+Pagando... 
+Cliente 48: 110.31281968928432 
+ <--------------------------->
+Preparando pedido... 
+Cliente 48: 110.42380215112533
+ <------------>
+Entregando pedido... 
+ Cliente 48: 111.07992560963416
+ <--------------------->
+Consumiendo Producto... 
+Cliente 48: 111.1465111584646
+ <---------------->
+Cliente 48 sale de cafeteria 111.92421734547922
+ <------------------>
